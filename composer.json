@@ -12,8 +12,8 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
-        "mutator08/yii2-assets-rxjs": "4.1.0"
+        "yiisoft/yii2": "*",
+        "mutator08/yii2-assets-rxjs": "4.1.0",
         "bower-asset/rxjs-dom": "7.0.3"
     },
     "autoload": {
