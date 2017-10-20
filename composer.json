@@ -3,7 +3,7 @@
     "description": "RxJsDom assets for yii2",
     "version": "7.0.3",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","rxjs","assets"," yii2rxjs"," yii2rxjsdom"],
+    "keywords": ["yii2","extension","rxdom","assets"," yii2rxdom"],
     "license": "LGPL-3.0+",
     "authors": [
         {
@@ -14,7 +14,7 @@
     "require": {
         "yiisoft/yii2": "*",
         "mutator08/yii2-assets-rxjs": "4.1.0",
-        "bower-asset/rxjs-dom": "7.0.3"
+        "bower-asset/rx-dom": "7.0.3"
     },
     "autoload": {
         "psr-4": {
