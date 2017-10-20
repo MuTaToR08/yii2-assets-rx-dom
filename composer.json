@@ -1,9 +1,9 @@
 {
     "name": "mutator08/yii2-assets-rxjs-dom",
     "description": "RxJsDom assets for yii2",
-    "version": "4.1.0",
+    "version": "7.0.3",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","rxjs","assets"," yii2rxjs"],
+    "keywords": ["yii2","extension","rxjs","assets"," yii2rxjs"," yii2rxjsdom"],
     "license": "LGPL-3.0+",
     "authors": [
         {
