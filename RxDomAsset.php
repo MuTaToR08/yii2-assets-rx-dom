@@ -7,4 +7,5 @@ class RxDomAsset extends \yii\web\AssetBundle
 	public $js = [
     "dist/rx.dom.js",
     "dist/rx.dom.compat.js"];
+	public $depends = ['mutator08\assets\RxJsAsset'];
 }
