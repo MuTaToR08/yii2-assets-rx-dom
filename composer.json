@@ -1,5 +1,5 @@
 {
-    "name": "mutator08/yii2-assets-rxjs-dom",
+    "name": "mutator08/yii2-assets-rx-dom",
     "description": "RxJsDom assets for yii2",
     "version": "7.0.3",
     "type": "yii2-extension",
